@@ -2,7 +2,7 @@
     { 
 "mac_id":1,
 "mac_kod":"122",
-"mac_ev":{"Real Madrid" "hex":"#ff0099cc"},
+"mac_ev":"Real Madrid",
 "mac_dep":"Barcelona",
 "mac_tarih":"12.02.18",
 "mac_saat":"18:30",
