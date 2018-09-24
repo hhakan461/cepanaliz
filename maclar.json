@@ -2,19 +2,19 @@
     { 
 "mac_id":1,
 "mac_kod":"122",
-"mac_ev":"Real Madrid",
+"mac_ev":"Atletico M.",
 "mac_dep":"Barcelona",
-"mac_tarih":"12.02.18",
+"mac_tarih":"22.02.18",
 "mac_saat":"18:30",
 "macan_aliz":"MS 2"
 
 },
 { 
 "mac_id":2,
-"mac_kod":"158",
-"mac_ev":"Galatasaray",
+"mac_kod":"153",
+"mac_ev":"Konyaspor",
 "mac_dep":"Fenerbahçe",
-"mac_tarih":"12.02.18",
+"mac_tarih":"22.02.18",
 "mac_saat":"21:30",
 "macan_aliz":"MS 1"
 },
@@ -24,8 +24,17 @@
 "mac_ev":"Juventus",
 "mac_dep":"İnter",
 "mac_tarih":"12.02.18",
-"mac_saat":"21:30",
+"mac_saat":"20:30",
 "macan_aliz":"MS 2 ✓"
+},
+        { 
+"mac_id":3,
+"mac_kod":"124",
+"mac_ev":"Manchester U.",
+"mac_dep":"Chelsea",
+"mac_tarih":"12.02.18",
+"mac_saat":"22:30",
+"macan_aliz":"MS 2 ✘"
 }
     
 ]}
