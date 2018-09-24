@@ -11,18 +11,18 @@
 },
 { 
 "mac_id":2,
-"mac_kod":"123",
+"mac_kod":"158",
 "mac_ev":"Galatasaray",
-"mac_dep":"Milan",
+"mac_dep":"Fenerbahçe",
 "mac_tarih":"12.02.18",
 "mac_saat":"21:30",
-"macan_aliz":"MS 2 ✓"
+"macan_aliz":"MS 1"
 },
     { 
 "mac_id":3,
 "mac_kod":"165",
-"mac_ev":"Fiorentina",
-"mac_dep":"Dinamo Z.",
+"mac_ev":"Juventus",
+"mac_dep":"İnter",
 "mac_tarih":"12.02.18",
 "mac_saat":"21:30",
 "macan_aliz":"MS 2 ✓"
