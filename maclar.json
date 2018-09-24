@@ -6,7 +6,7 @@
 "mac_dep":"Barcelona",
 "mac_tarih":"12.02.18",
 "mac_saat":"18:30",
-"macan_aliz":"MS 1 ✘"
+"macan_aliz":"MS 2"
 
 },
 { 
@@ -17,11 +17,15 @@
 "mac_tarih":"12.02.18",
 "mac_saat":"21:30",
 "macan_aliz":"MS 2 ✓"
-
-
-
-
-
+},
+    { 
+"mac_id":3,
+"mac_kod":"165",
+"mac_ev":"Fiorentina",
+"mac_dep":"Dinamo Z.",
+"mac_tarih":"12.02.18",
+"mac_saat":"21:30",
+"macan_aliz":"MS 2 ✓"
 }
     
 ]}
