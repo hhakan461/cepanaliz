@@ -3,38 +3,29 @@
 "mac_id":1,
 "mac_kod":"683",
 "mac_ev":"FC Köln",
-"mac_dep":"Duisburg",
+"mac_dep":"MSV Duisburg",
 "mac_tarih":"8.10.18",
 "mac_saat":"21:30",
-"macan_aliz":"Kg var "
+"macan_aliz":"Kg var 1,55 "
 
 },
 { 
 "mac_id":2,
-"mac_kod":"153",
-"mac_ev":"Konyaspor",
-"mac_dep":"Fenerbahçe",
-"mac_tarih":"22.02.18",
-"mac_saat":"21:30",
-"macan_aliz":"MS 1"
+"mac_kod":"678",
+"mac_ev":"GIF Sundsvall",
+"mac_dep":"Kalmar FF",
+"mac_tarih":"8.10.18",
+"mac_saat":"20:00",
+"macan_aliz":"Tg 2-3 1,80"
 },
     { 
 "mac_id":3,
-"mac_kod":"165",
-"mac_ev":"Juventus",
-"mac_dep":"İnter",
-"mac_tarih":"12.02.18",
-"mac_saat":"20:30",
-"macan_aliz":"MS 2 ✓"
-},
-        { 
-"mac_id":3,
-"mac_kod":"124",
-"mac_ev":"Manchester U.",
-"mac_dep":"Chelsea",
-"mac_tarih":"12.02.18",
-"mac_saat":"22:30",
-"macan_aliz":"MS 2 ✘"
+"mac_kod":"681",
+"mac_ev":"FC Botosani",
+"mac_dep":"FK Dinamo.B",
+"mac_tarih":"8.10.18",
+"mac_saat":"21:00",
+"macan_aliz":"MS 0 2,80"
 }
     
 ]}
