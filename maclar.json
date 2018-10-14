@@ -1,4 +1,4 @@
-﻿{"maclar":[
+{"maclar":[
     { 
 "mac_id":1,
 "mac_kod":"683",
@@ -6,7 +6,7 @@
 "mac_dep":"Duisburg",
 "mac_tarih":"8.10.18",
 "mac_saat":"21:30",
-"macan_aliz":"Kg var"
+"macan_aliz":"Kg var ✓"
 
 },
 { 
@@ -16,7 +16,7 @@
 "mac_dep":"Kalmar FF",
 "mac_tarih":"8.10.18",
 "mac_saat":"20:00",
-"macan_aliz":"Tg 2-3"
+"macan_aliz":"Tg 2-3 ✓"
 },
     { 
 "mac_id":3,
@@ -25,7 +25,7 @@
 "mac_dep":"FK Dinamo.B",
 "mac_tarih":"8.10.18",
 "mac_saat":"21:00",
-"macan_aliz":"MS 0"
+"macan_aliz":"MS 0 ✘"
 }
     
 ]}
